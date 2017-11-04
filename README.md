@@ -1,6 +1,6 @@
 # portfolio_template
 Responsive developer potfolio template.
-Build with:
+<br /> Build with:
 * HTML5
 * CSS3 
 * Bootsrap
