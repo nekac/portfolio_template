@@ -1,5 +1,5 @@
 # portfolio_template
-One page responsive potfolio template.
+Responsive one page potfolio template.
 * HTML5
 * CSS3 
 * Bootsrap
